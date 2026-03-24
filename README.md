@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayur Shende</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" align="right" width="500" height="350" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rpavani-sunshine&label=Profile%20views&color=0e75b6&style=flat" alt="mayurshende18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurshende18&label=Profile%20views&color=0e75b6&style=flat" alt="mayurshende18" /> </p>
 
 
 - 🌱 I’m Junior Software Developer
@@ -42,8 +42,8 @@
 <!--   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpavani-sunshine&show_icons=true&locale=en&layout=compact" alt="rpavani-sunshine" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurshende18&show_icons=true&locale=en&layout=compact" alt="mayurshende18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rpavani-sunshine&show_icons=true&locale=en" alt="rpavani-sunshine" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurshende18&show_icons=true&locale=en" alt="mayurshende18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rpavani-sunshine&" alt="rpavani-sunshine" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurshende18&" alt="mayurshende18" /></p>
